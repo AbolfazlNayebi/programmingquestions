@@ -23,7 +23,7 @@ public class p59 {
             if (k > 0)
                 System.out.print(p + "^" + k);
             if (n>1)
-                System.out.print("+");
+                System.out.print("*");
             p++;
         }
 
