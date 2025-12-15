@@ -8,11 +8,11 @@ public class p41 {
         while (f<50)
         {
             c=a+b;
+            System.out.print(c);
             f++;
             a=b;
             b=c;
         }
-        System.out.print("result:"+c);
 
     }
 }
