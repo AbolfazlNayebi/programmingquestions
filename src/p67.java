@@ -6,7 +6,7 @@ public class p67 {
         Scanner input = new Scanner(System.in);
 
         int c=0;
-        for (int i=1;i<=5;i++)
+        for (int i=1;i<=100;i++)
         {
             System.out.print("Enter "+i+"st number:");
             int n=input.nextInt();
