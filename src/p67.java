@@ -1,5 +1,3 @@
-import jdk.jshell.spi.ExecutionControl;
-
 import java.util.*;
 public class p67 {
     public static void main(String[] args) {
